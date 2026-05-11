@@ -1,3 +1,5 @@
+# From Entropy to Epiplexity: Rethinking Information for Computationally Bounded Intelligence
+
 **核心問題與動機（Core Problem and Motivation）**
 
 論文的核心問題是：在計算資源受限的觀察者（computationally bounded intelligence，如現代神經網路）眼中，資料中「可學習的結構性資訊」（structural information）該如何量化？古典資訊理論（如Shannon entropy與Kolmogorov complexity）假設無限計算能力，導致三個看似矛盾的悖論，與深度學習實務嚴重脫節：
