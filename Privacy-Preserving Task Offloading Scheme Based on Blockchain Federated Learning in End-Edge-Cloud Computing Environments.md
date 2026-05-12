@@ -33,7 +33,6 @@
 - **可擴展性**：大規模部署下，區塊鏈儲存與共識瓶頸明顯，可能需分片（Sharding）或 Layer-2 解決方案。
 - **實施複雜度**：整合多技術（FL、Blockchain、Optimization），實際部署需考量相容性與標準化。
 
-**更廣洞見**：
 此工作反映當前邊緣計算趨勢：從「集中式」轉向「分散式信任」，Blockchain 提供治理層，FL 提供學習層，Offloading 提供執行層。三者結合是實現「可信邊緣智慧」的關鍵路徑。在 6G 時代，此類方案可支援車聯網、智慧醫療、工業 4.0 等高隱私需求場景。但也凸顯挑戰：如何在資源受限環境下實現「輕量級」區塊鏈 FL，仍是開放問題。
 
 與相關研究比較：類似工作（如基於 Blockchain 的多任務 FL 或衛星-地面卸載）多聚焦單一面向，本文更強調 End-Edge-Cloud 全域整合。
@@ -43,6 +42,5 @@
 
 未來方向可能包括：動態自適應卸載、量子安全加密整合、跨域多鏈協作，或與生成式 AI 結合。整體而言，此研究突顯「隱私即服務（Privacy as a Service）」在下一代計算架構中的核心地位，值得後續實作驗證與標準化推動。
 
-若能取得完整 PDF，可進一步細化量化結果與演算法細節。建議後續研究可聚焦實機部署與長期系統穩定性評估。
 
 **文章連結**：https://www.researchgate.net/publication/403937786_Privacy-Preserving_Task_Offloading_Scheme_Based_on_Blockchain_Federated_Learning_in_End-Edge-Cloud_Computing_Environments
