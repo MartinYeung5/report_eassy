@@ -1,8 +1,6 @@
 # 差分隱私聯邦學習之系統性回顧  
 # Differentially Private Federated Learning: A Systematic Review (arXiv:2405.08299, 2024/2025)
----
-**📄 GrFFT-DP：基於快速傅立葉轉換的差分隱私聯邦學習論文整理**  
-*(Federated Learning with Differential Privacy via Fast Fourier Transform, Scientific Reports 2024)*
+
 
 ---
 
