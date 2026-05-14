@@ -63,4 +63,4 @@
 
 ### 📍 文章連結
 **https://www.nature.com/articles/s41598-024-77428-0**  
-（開放存取，可直接下載 PDF）
+
