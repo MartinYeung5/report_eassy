@@ -1,5 +1,5 @@
-# 差分隱私聯邦學習之系統性回顧  
-# Differentially Private Federated Learning: A Systematic Review (arXiv:2405.08299, 2024/2025)
+# Federated Learning with Differential Privacy via Fast Fourier Transform (Scientific Reports, 2024)
+# 使用快速傅立葉轉換實現差分隱私的聯邦學習
 
 
 ---
