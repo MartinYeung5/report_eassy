@@ -37,7 +37,6 @@
 - **攻擊分析**：梯度基礎解釋（如 Vanilla Gradient、Integrated Gradients）最容易遭受 MIA 與重建攻擊；反事實解釋可顯著加速模型萃取；代理模型即使在黑盒設定下仍可被有效反轉。
 - **洩漏成因**：過擬合、少數群體/離群值被過度強調、解釋高變異性、決策邊界附近樣本等。
 - **防禦機制**：差分隱私（DP）整合至 SHAP 與 Counterfactual 生成、MPC（如 XorSHAP）、隱私保護訓練、匿名化技術等。
-- **資源貢獻**：建立並維護開源倉庫 [awesome-privex](https://github.com/tamlhp/awesome-privex)，持續收錄最新論文、程式碼、資料集與評估指標。
 
 論文強調，部分防禦方法（如 DP-SHAP）可在提供 ε-差分隱私保證的同時維持一定解釋品質，但普遍存在 **效用-隱私權衡（Utility-Privacy Trade-off）**。
 
