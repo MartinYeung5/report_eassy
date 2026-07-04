@@ -1,4 +1,4 @@
-# 🎭 AMA: Attractive Metadata Attack
+# AMA: Attractive Metadata Attack
 
 ### *Inducing LLM Agents to Invoke Malicious Tools*
 **NeurIPS 2025** | [arXiv](https://arxiv.org/abs/2508.02110) | [NeurIPS Page](https://neurips.cc/virtual/2025/loc/san-diego/poster/116046)
