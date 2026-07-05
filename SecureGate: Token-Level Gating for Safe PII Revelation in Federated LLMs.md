@@ -122,23 +122,6 @@ output = model.generate(
 - **Gating Threshold**: Calibrate on a validation set with known PII labels.
 - **Aggregation Frequency**: Adjust based on data heterogeneity across clients.
 
----
-
-## 📝 Citation
-
-If you find this work useful for your research, please cite the original paper:
-
-```bibtex
-@inproceedings{shaaban2026securegate,
-  title={SecureGate: Learning When to Reveal PII Safely via Token-Gated Dual-Adapters for Federated LLMs},
-  author={Shaaban, M. and Elmahallawy, M.},
-  booktitle={Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL)},
-  year={2026},
-  archivePrefix={arXiv},
-  primaryClass={cs.CR},
-  eprint={2602.13529}
-}
-```
 
 ---
 
