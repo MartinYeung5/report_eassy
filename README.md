@@ -1,4 +1,4 @@
-# report_eassy
+# report/eassy (only for my learning)
 
 ## Eassy Index
 
