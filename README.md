@@ -10,4 +10,6 @@ https://github.com/MartinYeung5/report_eassy/blob/main/A%20Survey%20on%20Trustwo
 https://github.com/MartinYeung5/report_eassy/tree/main
 
 ### 20260714
+* Quantitative Analysis and Mitigation of Safety Risks in AI Agents (Z. Luo et al., USENIX Security 2025)
+https://github.com/MartinYeung5/report_eassy/blob/main/Quantitative%20Analysis%20and%20Mitigation%20of%20Safety%20Risks%20in%20AI%20Agents.md
 
