@@ -14,3 +14,6 @@ https://github.com/MartinYeung5/report_eassy/tree/main
 https://github.com/MartinYeung5/report_eassy/blob/main/Quantitative%20Analysis%20and%20Mitigation%20of%20Safety%20Risks%20in%20AI%20Agents.md
 
 * SoK: Attack and Defense Landscape of Agentic AI Systems
+https://github.com/MartinYeung5/report_eassy/blob/main/SoK%3A%20Attack%20and%20Defense%20Landscape%20of%20Agentic%20AI%20Systems.md
+
+ 
