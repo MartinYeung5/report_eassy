@@ -17,5 +17,6 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Quantitative%20Analysis%2
 https://github.com/MartinYeung5/report_eassy/blob/main/SoK%3A%20Attack%20and%20Defense%20Landscape%20of%20Agentic%20AI%20Systems.md
 
 * ShadowClone: Accelerating Cross-Shard Transactions via Shadow Accounts
+https://github.com/MartinYeung5/report_eassy/blob/main/ShadowClone%3A%20Accelerating%20Cross-Shard%20Transactions%20via%20Shadow%20Accounts.md
 
  
