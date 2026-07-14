@@ -20,3 +20,4 @@ https://github.com/MartinYeung5/report_eassy/blob/main/SoK%3A%20Attack%20and%20D
 https://github.com/MartinYeung5/report_eassy/blob/main/ShadowClone%3A%20Accelerating%20Cross-Shard%20Transactions%20via%20Shadow%20Accounts.md
 
 * Justitia-L: Budget-Constrained Fairness Optimization in Sharded Blockchains via Lagrangian Dual Control
+https://github.com/MartinYeung5/report_eassy/blob/main/Justitia-L%3A%20Budget-Constrained%20Fairness%20Optimization%20in%20Sharded%20Blockchains%20via%20Lagrangian%20Dual%20Control.md
