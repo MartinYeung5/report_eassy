@@ -1,10 +1,5 @@
 # MiCA Learns More Knowledge Than LoRA and Full Fine-Tuning (Paper: https://arxiv.org/pdf/2604.01694 )
 
-Here is the English translation and formatting adaptation of the analysis, structured as a comprehensive and professional `README.md` for GitHub.
-
----
-
-# MiCA: Learning More Knowledge than LoRA and Full Fine-Tuning
 ### A Deep Dive Paper Analysis
 
 [![Paper](https://img.shields.io/badge/arXiv-2604.01694-b31b1b?logo=arXiv)](https://arxiv.org/abs/2604.01694)
