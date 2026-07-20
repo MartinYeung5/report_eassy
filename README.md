@@ -23,5 +23,5 @@ https://github.com/MartinYeung5/report_eassy/blob/main/ShadowClone%3A%20Accelera
 https://github.com/MartinYeung5/report_eassy/blob/main/Justitia-L%3A%20Budget-Constrained%20Fairness%20Optimization%20in%20Sharded%20Blockchains%20via%20Lagrangian%20Dual%20Control.md
 
 ## 20260720
-MiCA Learns More Knowledge Than LoRA and Full Fine-Tuning (Paper: https://arxiv.org/pdf/2604.01694 )
+* MiCA Learns More Knowledge Than LoRA and Full Fine-Tuning (Paper: https://arxiv.org/pdf/2604.01694 )
 https://github.com/MartinYeung5/report_eassy/blob/main/MiCA%20Learns%20More%20Knowledge%20Than%20LoRA%20and%20Full%20Fine-Tuning.md
