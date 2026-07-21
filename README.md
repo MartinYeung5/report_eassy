@@ -25,3 +25,7 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Justitia-L%3A%20Budget-Co
 ## 20260720
 * MiCA Learns More Knowledge Than LoRA and Full Fine-Tuning (Paper: https://arxiv.org/pdf/2604.01694 )
 https://github.com/MartinYeung5/report_eassy/blob/main/MiCA%20Learns%20More%20Knowledge%20Than%20LoRA%20and%20Full%20Fine-Tuning.md
+
+## 20260721
+* Unsafer in Many Turns: Benchmarking and Defending Multi-Turn Safety Risks in Tool-Using Agents 
+https://github.com/MartinYeung5/report_eassy/blob/main/Unsafer%20in%20Many%20Turns%3A%20Benchmarking%20and%20Defending%20Multi-Turn%20Safety%20Risks%20in%20Tool-Using%20Agents.md
