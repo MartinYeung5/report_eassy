@@ -34,7 +34,7 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Unsafer%20in%20Many%20Tur
 * Malicious LLM-Based Conversational AI Makes Users Reveal Personal Information
 https://github.com/MartinYeung5/report_eassy/blob/main/Malicious%20LLM-Based%20Conversational%20AI%20Makes%20Users%20Reveal%20Personal%20Information.md
 
-* ## 20260723
+## 20260723
 * Personalized Safety in LLMs: A Benchmark and A Planning-Based Agent Approach 
 https://github.com/MartinYeung5/report_eassy/blob/main/Personalized%20Safety%20in%20LLMs:%20A%20Benchmark%20and%20A%20Planning-Based%20Agent%20Approach.md
 
