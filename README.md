@@ -30,4 +30,5 @@ https://github.com/MartinYeung5/report_eassy/blob/main/MiCA%20Learns%20More%20Kn
 * Unsafer in Many Turns: Benchmarking and Defending Multi-Turn Safety Risks in Tool-Using Agents 
 https://github.com/MartinYeung5/report_eassy/blob/main/Unsafer%20in%20Many%20Turns%3A%20Benchmarking%20and%20Defending%20Multi-Turn%20Safety%20Risks%20in%20Tool-Using%20Agents.md
 
-
+## 20260722
+* Malicious LLM-Based Conversational AI Makes Users Reveal Personal Information
