@@ -27,9 +27,15 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Justitia-L%3A%20Budget-Co
 https://github.com/MartinYeung5/report_eassy/blob/main/MiCA%20Learns%20More%20Knowledge%20Than%20LoRA%20and%20Full%20Fine-Tuning.md
 
 ## 20260721
-* Unsafer in Many Turns: Benchmarking and Defending Multi-Turn Safety Risks in Tool-Using Agents 
+* Unsafer in Many Turns: Benchmarking and Defending Multi-Turn Safety Risks in Tool-Using Agents
 https://github.com/MartinYeung5/report_eassy/blob/main/Unsafer%20in%20Many%20Turns%3A%20Benchmarking%20and%20Defending%20Multi-Turn%20Safety%20Risks%20in%20Tool-Using%20Agents.md
 
 ## 20260722
 * Malicious LLM-Based Conversational AI Makes Users Reveal Personal Information
 https://github.com/MartinYeung5/report_eassy/blob/main/Malicious%20LLM-Based%20Conversational%20AI%20Makes%20Users%20Reveal%20Personal%20Information.md
+
+* ## 20260723
+* Personalized Safety in LLMs: A Benchmark and A Planning-Based Agent Approach 
+https://github.com/MartinYeung5/report_eassy/blob/main/Personalized%20Safety%20in%20LLMs:%20A%20Benchmark%20and%20A%20Planning-Based%20Agent%20Approach.md
+
+
