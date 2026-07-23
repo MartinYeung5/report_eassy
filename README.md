@@ -40,3 +40,5 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Personalized%20Safety%20i
 
 * Mamba: Linear-Time Sequence Modeling with Selective State Spaces
 https://github.com/MartinYeung5/report_eassy/blob/main/Mamba%3A%20Linear-Time%20Sequence%20Modeling%20with%20Selective%20State%20Spaces.md
+
+* Context Rules! Privacy and Security for Future Trustworthy AI Agents (Eugene Bagdasarian, 2025)
