@@ -39,4 +39,4 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Malicious%20LLM-Based%20C
 https://github.com/MartinYeung5/report_eassy/blob/main/Personalized%20Safety%20in%20LLMs:%20A%20Benchmark%20and%20A%20Planning-Based%20Agent%20Approach.md
 
 * Mamba: Linear-Time Sequence Modeling with Selective State Spaces
-  
+https://github.com/MartinYeung5/report_eassy/blob/main/Mamba%3A%20Linear-Time%20Sequence%20Modeling%20with%20Selective%20State%20Spaces.md
