@@ -42,3 +42,5 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Personalized%20Safety%20i
 https://github.com/MartinYeung5/report_eassy/blob/main/Mamba%3A%20Linear-Time%20Sequence%20Modeling%20with%20Selective%20State%20Spaces.md
 
 * Context Rules! Privacy and Security for Future Trustworthy AI Agents (Eugene Bagdasarian, 2025)
+
+* Trust, Risk, and Security in Agentic AI: A Short Survey (Shaina Raza et al., NeurIPS 2025)
