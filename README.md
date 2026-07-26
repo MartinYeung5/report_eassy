@@ -52,3 +52,5 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Trust%2C%20Risk%2C%20and%
 ## 20260726
 * The Emerged Security and Privacy of LLM Agent: A Survey with Case Studies
 https://github.com/MartinYeung5/report_eassy/blob/main/The%20Emerged%20Security%20and%20Privacy%20of%20LLM%20Agent%3A%20A%20Survey%20with%20Case%20Studies.md
+
+* AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents
