@@ -61,3 +61,5 @@ https://github.com/MartinYeung5/report_eassy/blob/main/InjecAgent%3A%20Benchmark
 
 ## 20260727
 * Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents (ICLR 2025)
+https://github.com/MartinYeung5/report_eassy/blob/main/Agent%20Security%20Bench%20(ASB)%3A%20Formalizing%20and%20Benchmarking%20Attacks%20and%20Defenses%20in%20LLM-based%20Agents.md
+
