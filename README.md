@@ -43,9 +43,12 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Mamba%3A%20Linear-Time%20
 
 * Context Rules! Privacy and Security for Future Trustworthy AI Agents (Eugene Bagdasarian, 2025)
 
-* Trust, Risk, and Security in Agentic AI: A Short Survey (Shaina Raza et al., NeurIPS 2025)
-https://github.com/MartinYeung5/report_eassy/blob/main/Trust%2C%20Risk%2C%20and%20Security%20in%20Agentic%20AI%3A%20A%20Short%20Survey.md
-
 ## 20260724
 * Trust, Risk, and Security in Agentic AI: A Comprehensive Analysis
 https://github.com/MartinYeung5/report_eassy/blob/main/Trust%2C%20Risk%2C%20and%20Security%20in%20Agentic%20AI%3A%20A%20Comprehensive%20Analysis.md
+
+## 20260725
+* Trust, Risk, and Security in Agentic AI: A Short Survey (Shaina Raza et al., NeurIPS 2025)
+https://github.com/MartinYeung5/report_eassy/blob/main/Trust%2C%20Risk%2C%20and%20Security%20in%20Agentic%20AI%3A%20A%20Short%20Survey.md
+
+## 20260726
