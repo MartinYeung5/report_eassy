@@ -57,3 +57,4 @@ https://github.com/MartinYeung5/report_eassy/blob/main/The%20Emerged%20Security%
 https://github.com/MartinYeung5/report_eassy/blob/main/AgentDojo:%20A%20Dynamic%20Environment%20to%20Evaluate%20Prompt%20Injection%20Attacks%20and%20Defenses%20for%20LLM%20Agents.md
 
 * InjecAgent: Benchmarking Indirect Prompt Injections in Tool-Integrated Large Language Model Agents
+https://github.com/MartinYeung5/report_eassy/blob/main/InjecAgent%3A%20Benchmarking%20Indirect%20Prompt%20Injections%20in%20Tool-Integrated%20LLM%20Agents.md
