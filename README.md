@@ -58,3 +58,6 @@ https://github.com/MartinYeung5/report_eassy/blob/main/AgentDojo:%20A%20Dynamic%
 
 * InjecAgent: Benchmarking Indirect Prompt Injections in Tool-Integrated Large Language Model Agents
 https://github.com/MartinYeung5/report_eassy/blob/main/InjecAgent%3A%20Benchmarking%20Indirect%20Prompt%20Injections%20in%20Tool-Integrated%20LLM%20Agents.md
+
+## 20260727
+* Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents (ICLR 2025)
