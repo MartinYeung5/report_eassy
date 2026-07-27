@@ -76,3 +76,5 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Personal%20LLM%20Agents%3
 https://github.com/MartinYeung5/report_eassy/blob/main/Towards%20autonomous%20medical%20artificial%20intelligence%20agents.md
 
 * Privacy Leakage Overshadowed by Views of AI: A Study on Human Oversight of Privacy in Language Model Agent (CHI 2025)
+
+* Autonomy Reshapes How Personalization Affects Privacy Concerns and Trust in LLM Agents (2026)
