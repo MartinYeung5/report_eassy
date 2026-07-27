@@ -64,3 +64,4 @@ https://github.com/MartinYeung5/report_eassy/blob/main/InjecAgent%3A%20Benchmark
 https://github.com/MartinYeung5/report_eassy/blob/main/Agent%20Security%20Bench%20(ASB)%3A%20Formalizing%20and%20Benchmarking%20Attacks%20and%20Defenses%20in%20LLM-based%20Agents.md
 
 *  ToolEmu: Identifying the Risks of LM Agents with an LM-Emulated Sandbox
+*  AirGapAgent: Protecting Privacy-Conscious Conversational Agents
