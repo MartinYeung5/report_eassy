@@ -73,3 +73,5 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Personal%20LLM%20Agents%3
 
 ## 20260728
 * Towards autonomous medical artificial intelligence agents
+https://github.com/MartinYeung5/report_eassy/blob/main/Towards%20autonomous%20medical%20artificial%20intelligence%20agents.md
+
