@@ -70,3 +70,6 @@ https://github.com/MartinYeung5/report_eassy/blob/main/AirGapAgent%3A%20Protecti
 
 * Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security (2024)
 https://github.com/MartinYeung5/report_eassy/blob/main/Personal%20LLM%20Agents%3A%20Insights%20and%20Survey%20about%20the%20Capability%2C%20Efficiency%20and%20Security.md
+
+## 20260728
+* Towards autonomous medical artificial intelligence agents
