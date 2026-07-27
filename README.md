@@ -67,3 +67,6 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Agent%20Security%20Bench%
   
 *  AirGapAgent: Protecting Privacy-Conscious Conversational Agents
 https://github.com/MartinYeung5/report_eassy/blob/main/AirGapAgent%3A%20Protecting%20Privacy-Conscious%20Conversational%20Agents.md
+
+* Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security (2024)
+  
