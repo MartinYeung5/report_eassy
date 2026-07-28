@@ -83,3 +83,5 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Autonomy%20Reshapes%20How
 
 * StruQ: Defending Against Prompt Injection with Structured Queries (USENIX Security 2025)
 https://github.com/MartinYeung5/report_eassy/blob/main/StruQ%3A%20Defending%20Against%20Prompt%20Injection%20with%20Structured%20Queries.md
+
+## 20260729
