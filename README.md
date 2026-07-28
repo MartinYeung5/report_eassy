@@ -86,3 +86,4 @@ https://github.com/MartinYeung5/report_eassy/blob/main/StruQ%3A%20Defending%20Ag
 
 ## 20260729
 * Defeating Prompt Injections by Design (CaMeL) (2025)
+https://github.com/MartinYeung5/report_eassy/blob/main/Defeating%20Prompt%20Injections%20by%20Design%20(CaMeL).md
