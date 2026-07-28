@@ -81,3 +81,4 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Privacy%20Leakage%20Overs
 * Autonomy Reshapes How Personalization Affects Privacy Concerns and Trust in LLM Agents (2026)
 https://github.com/MartinYeung5/report_eassy/blob/main/Autonomy%20Reshapes%20How%20Personalization%20Affects%20Privacy%20Concerns%20and%20Trust%20in%20LLM%20Agents.md
 
+* StruQ: Defending Against Prompt Injection with Structured Queries (USENIX Security 2025)
