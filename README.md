@@ -89,3 +89,4 @@ https://github.com/MartinYeung5/report_eassy/blob/main/StruQ%3A%20Defending%20Ag
 https://github.com/MartinYeung5/report_eassy/blob/main/Defeating%20Prompt%20Injections%20by%20Design%20(CaMeL).md
 
 * The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions (2024)
+https://github.com/MartinYeung5/report_eassy/blob/main/The%20Instruction%20Hierarchy%3A%20Training%20LLMs%20to%20Prioritize%20Privileged%20Instructions.md
