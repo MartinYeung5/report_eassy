@@ -97,3 +97,6 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Design%20Patterns%20for%2
 ## 20260730
 * CaMeLs Can Use Computers Too: System-level Security for Computer Use Agents (2026)
 https://github.com/MartinYeung5/report_eassy/blob/main/CaMeLs%20Can%20Use%20Computers%20Too%3A%20System-level%20Security%20for%20Computer%20Use%20Agents%20.md
+
+* WASP: Benchmarking Web Agent Security Against Prompt Injection Attacks (2025)
+  
