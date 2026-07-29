@@ -94,4 +94,6 @@ https://github.com/MartinYeung5/report_eassy/blob/main/The%20Instruction%20Hiera
 * Design Patterns for Securing LLM Agents against Prompt Injections (2025)
 https://github.com/MartinYeung5/report_eassy/blob/main/Design%20Patterns%20for%20Securing%20LLM%20Agents%20against%20Prompt%20Injections.md
 
+## 20260730
 * CaMeLs Can Use Computers Too: System-level Security for Computer Use Agents (2026)
+https://github.com/MartinYeung5/report_eassy/blob/main/CaMeLs%20Can%20Use%20Computers%20Too%3A%20System-level%20Security%20for%20Computer%20Use%20Agents%20.md
