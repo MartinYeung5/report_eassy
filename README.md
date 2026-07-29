@@ -90,3 +90,5 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Defeating%20Prompt%20Inje
 
 * The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions (2024)
 https://github.com/MartinYeung5/report_eassy/blob/main/The%20Instruction%20Hierarchy%3A%20Training%20LLMs%20to%20Prioritize%20Privileged%20Instructions.md
+
+* Design Patterns for Securing LLM Agents against Prompt Injections (2025)
