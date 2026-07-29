@@ -93,3 +93,5 @@ https://github.com/MartinYeung5/report_eassy/blob/main/The%20Instruction%20Hiera
 
 * Design Patterns for Securing LLM Agents against Prompt Injections (2025)
 https://github.com/MartinYeung5/report_eassy/blob/main/Design%20Patterns%20for%20Securing%20LLM%20Agents%20against%20Prompt%20Injections.md
+
+* Autonomy Reshapes How Personalization Affects Privacy Concerns and Trust in LLM Agents (2026)
