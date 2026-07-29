@@ -100,3 +100,5 @@ https://github.com/MartinYeung5/report_eassy/blob/main/CaMeLs%20Can%20Use%20Comp
 
 * WASP: Benchmarking Web Agent Security Against Prompt Injection Attacks (2025)
 https://github.com/MartinYeung5/report_eassy/blob/main/WASP%3A%20Benchmarking%20Web%20Agent%20Security%20Against%20Prompt%20Injection%20Attacks.md
+
+* AgentVigil: Generic Black-Box Red-teaming for Indirect Prompt Injection against LLM Agents (2025)
