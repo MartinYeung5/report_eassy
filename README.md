@@ -92,3 +92,4 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Defeating%20Prompt%20Inje
 https://github.com/MartinYeung5/report_eassy/blob/main/The%20Instruction%20Hierarchy%3A%20Training%20LLMs%20to%20Prioritize%20Privileged%20Instructions.md
 
 * Design Patterns for Securing LLM Agents against Prompt Injections (2025)
+https://github.com/MartinYeung5/report_eassy/blob/main/Design%20Patterns%20for%20Securing%20LLM%20Agents%20against%20Prompt%20Injections.md
