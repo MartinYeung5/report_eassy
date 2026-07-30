@@ -104,3 +104,5 @@ https://github.com/MartinYeung5/report_eassy/blob/main/WASP%3A%20Benchmarking%20
 * AgentVigil: Generic Black-Box Red-teaming for Indirect Prompt Injection against LLM Agents (2025)
 https://github.com/MartinYeung5/report_eassy/blob/main/AgentVigil%3A%20Generic%20Black-Box%20Red-teaming%20for%20Indirect%20Prompt%20Injection%20against%20LLM%20Agents.md
 
+## 20260731
+* IterInject: Indirect Prompt Injection Against LLM Agents via Feedback-Guided Iterative Optimization (2026)
