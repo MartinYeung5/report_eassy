@@ -124,7 +124,8 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Benchmarking%20and%20Defe
 * PACT: Provenance-Aware Capability Contracts — Argument-Level Provenance for Agent Security (2026)
 https://github.com/MartinYeung5/report_eassy/blob/main/PACT%3A%20Provenance-Aware%20Capability%20Contracts%20%E2%80%94%20Argument-Level%20Provenance%20for%20Agent%20Security.md
 
-https://github.com/MartinYeung5/report_eassy/blob/main/PACT:%20Provenance-Aware%20Capability%20Contracts%20%E2%80%94%20Argument-Level%20Provenance%20for%20Agent%20Security.md
+* R-Judge: Benchmarking Safety Risk Awareness for LLM Agents
+* 
 
 
 
