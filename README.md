@@ -113,4 +113,7 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Learning%20to%20Inject%3A
 
 ## 20260801
 * Assessing Automated Prompt Injection Attacks in Agentic Environments (2026)
+https://github.com/MartinYeung5/report_eassy/blob/main/Assessing%20Automated%20Prompt%20Injection%20Attacks%20in%20Agentic%20Environments.md
+
+
 
