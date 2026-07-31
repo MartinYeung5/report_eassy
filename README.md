@@ -116,4 +116,6 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Learning%20to%20Inject%3A
 https://github.com/MartinYeung5/report_eassy/blob/main/Assessing%20Automated%20Prompt%20Injection%20Attacks%20in%20Agentic%20Environments.md
 
 * Kill-Chain Canaries: Stage-Level Tracking of Prompt Injection Across Attack Surfaces and Model Safety Tiers (2026)
+https://github.com/MartinYeung5/report_eassy/blob/main/Justitia-L%3A%20Budget-Constrained%20Fairness%20Optimization%20in%20Sharded%20Blockchains%20via%20Lagrangian%20Dual%20Control.md
+
 
