@@ -122,6 +122,7 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Justitia-L%3A%20Budget-Co
 https://github.com/MartinYeung5/report_eassy/blob/main/Benchmarking%20and%20Defending%20Against%20Indirect%20Prompt%20Injection%20Attacks%20on%20Large%20Language%20Models%20.md
 
 * PACT: Provenance-Aware Capability Contracts — Argument-Level Provenance for Agent Security (2026)
+https://github.com/MartinYeung5/report_eassy/blob/main/PACT%3A%20Provenance-Aware%20Capability%20Contracts%20%E2%80%94%20Argument-Level%20Provenance%20for%20Agent%20Security.md
 
 
 
