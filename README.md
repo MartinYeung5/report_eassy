@@ -126,6 +126,7 @@ https://github.com/MartinYeung5/report_eassy/blob/main/PACT%3A%20Provenance-Awar
 
 https://github.com/MartinYeung5/report_eassy/blob/main/PACT:%20Provenance-Aware%20Capability%20Contracts%20%E2%80%94%20Argument-Level%20Provenance%20for%20Agent%20Security.md
 
+Benchmarking and Defending Against Indirect Prompt Injection Attacks on Large Language Models (BIPIA) (2024)
 
 
 
