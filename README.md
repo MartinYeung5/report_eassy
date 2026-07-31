@@ -110,3 +110,6 @@ https://github.com/MartinYeung5/report_eassy/blob/main/IterInject%3A%20Indirect%
 
 * Learning to Inject: Automated Prompt Injection via Reinforcement Learning (AutoInject) (2026)
 https://github.com/MartinYeung5/report_eassy/blob/main/Learning%20to%20Inject%3A%20Automated%20Prompt%20Injection%20via%20Reinforcement%20Learning%20(AutoInject).md
+
+## 20260801
+* 
