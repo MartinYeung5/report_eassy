@@ -129,5 +129,6 @@ https://github.com/MartinYeung5/report_eassy/blob/main/PACT%3A%20Provenance-Awar
 * R-Judge: Benchmarking Safety Risk Awareness for LLM Agents
 https://github.com/MartinYeung5/report_eassy/blob/main/R-Judge%3A%20Benchmarking%20Safety%20Risk%20Awareness%20for%20LLM%20Agents.md
 
+* AgentSafetyBench: Evaluating the Safety of LLM Agents 
 
 
