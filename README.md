@@ -131,3 +131,5 @@ https://github.com/MartinYeung5/report_eassy/blob/main/R-Judge%3A%20Benchmarking
 https://github.com/MartinYeung5/report_eassy/blob/main/AgentSafetyBench%3A%20Evaluating%20the%20Safety%20of%20LLM%20Agents.md
 
 * SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Agents (2024)
+https://github.com/MartinYeung5/report_eassy/blob/main/SafeAgentBench%3A%20A%20Benchmark%20for%20Safe%20Task%20Planning%20of%20Embodied%20LLM%20Agents.md
+
