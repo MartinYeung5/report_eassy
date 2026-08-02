@@ -136,3 +136,5 @@ https://github.com/MartinYeung5/report_eassy/blob/main/SafeAgentBench%3A%20A%20B
 ## 20260802
 * RedCode: Risky Code Execution and Generation Benchmark for Code Agents (NeurIPS 2024 D&B)
 https://github.com/MartinYeung5/report_eassy/blob/main/RedCode%3A%20Risky%20Code%20Execution%20and%20Generation%20Benchmark%20for%20Code%20Agents.md
+
+* Watch Out for Your Agents! Investigating Backdoor Threats to LLM-Based Agents (NeurIPS 2024)
