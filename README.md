@@ -133,3 +133,5 @@ https://github.com/MartinYeung5/report_eassy/blob/main/AgentSafetyBench%3A%20Eva
 * SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Agents (2024)
 https://github.com/MartinYeung5/report_eassy/blob/main/SafeAgentBench%3A%20A%20Benchmark%20for%20Safe%20Task%20Planning%20of%20Embodied%20LLM%20Agents.md
 
+## 20260802
+* RedCode: Risky Code Execution and Generation Benchmark for Code Agents (NeurIPS 2024 D&B)
