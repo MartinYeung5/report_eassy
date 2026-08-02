@@ -138,3 +138,4 @@ https://github.com/MartinYeung5/report_eassy/blob/main/SafeAgentBench%3A%20A%20B
 https://github.com/MartinYeung5/report_eassy/blob/main/RedCode%3A%20Risky%20Code%20Execution%20and%20Generation%20Benchmark%20for%20Code%20Agents.md
 
 * Watch Out for Your Agents! Investigating Backdoor Threats to LLM-Based Agents (NeurIPS 2024)
+https://github.com/MartinYeung5/report_eassy/blob/main/Watch%20Out%20for%20Your%20Agents!%20Investigating%20Backdoor%20Threats%20to%20LLM-Based%20Agents.md
