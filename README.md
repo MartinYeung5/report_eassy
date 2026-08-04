@@ -142,3 +142,6 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Watch%20Out%20for%20Your%
 
 ## 20260804
 * PsySafe: A Comprehensive Framework for Psychological-based Attack, Defense, and Evaluation of Multi-agent System Safety (ACL 2024)
+
+## 20260805
+* NetSafe: Exploring the Topological Safety of Multi-agent Networks (2024)
