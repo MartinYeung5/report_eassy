@@ -149,3 +149,4 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Watch%20Out%20for%20Your%
 * Adversarial Attacks on Multimodal Agents (ICLR 2025)
 https://github.com/MartinYeung5/report_eassy/blob/main/Adversarial%20Attacks%20on%20Multimodal%20Agents.md
 
+* Attacking Vision-Language Computer Agents via Pop-ups (2024)
