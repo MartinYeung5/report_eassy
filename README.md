@@ -149,11 +149,11 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Watch%20Out%20for%20Your%
 * Adversarial Attacks on Multimodal Agents (ICLR 2025)
 https://github.com/MartinYeung5/report_eassy/blob/main/Adversarial%20Attacks%20on%20Multimodal%20Agents.md
 
-* AgentSmith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast (ICML 2024)
-
 * Attacking Vision-Language Computer Agents via Pop-ups (2024)
 https://github.com/MartinYeung5/report_eassy/blob/main/Attacking%20Vision-Language%20Computer%20Agents%20via%20Pop-ups.md
 
 * AdvWeb: Controllable Black-box Attacks on VLM-powered Web Agents (2024)
 https://github.com/MartinYeung5/report_eassy/blob/main/AdvWeb%3A%20Controllable%20Black-box%20Attacks%20on%20VLM-powered%20Web%20Agents.md
 
+* AgentSmith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast (ICML 2024)
+https://github.com/MartinYeung5/report_eassy/blob/main/AgentSmith%3A%20A%20Single%20Image%20Can%20Jailbreak%20One%20Million%20Multimodal%20LLM%20Agents%20Exponentially%20Fast.md
