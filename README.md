@@ -153,3 +153,5 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Adversarial%20Attacks%20o
 https://github.com/MartinYeung5/report_eassy/blob/main/Attacking%20Vision-Language%20Computer%20Agents%20via%20Pop-ups.md
 
 * AdvWeb: Controllable Black-box Attacks on VLM-powered Web Agents (2024)
+https://github.com/MartinYeung5/report_eassy/blob/main/AdvWeb%3A%20Controllable%20Black-box%20Attacks%20on%20VLM-powered%20Web%20Agents.md
+
