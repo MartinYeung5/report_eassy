@@ -139,3 +139,6 @@ https://github.com/MartinYeung5/report_eassy/blob/main/RedCode%3A%20Risky%20Code
 
 * Watch Out for Your Agents! Investigating Backdoor Threats to LLM-Based Agents (NeurIPS 2024)
 https://github.com/MartinYeung5/report_eassy/blob/main/Watch%20Out%20for%20Your%20Agents!%20Investigating%20Backdoor%20Threats%20to%20LLM-Based%20Agents.md
+
+## 20260804
+* PsySafe: A Comprehensive Framework for Psychological-based Attack, Defense, and Evaluation of Multi-agent System Safety (ACL 2024)
