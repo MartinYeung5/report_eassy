@@ -150,3 +150,4 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Watch%20Out%20for%20Your%
 https://github.com/MartinYeung5/report_eassy/blob/main/Adversarial%20Attacks%20on%20Multimodal%20Agents.md
 
 * Attacking Vision-Language Computer Agents via Pop-ups (2024)
+https://github.com/MartinYeung5/report_eassy/blob/main/Attacking%20Vision-Language%20Computer%20Agents%20via%20Pop-ups.md
