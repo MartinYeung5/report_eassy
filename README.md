@@ -162,3 +162,5 @@ https://github.com/MartinYeung5/report_eassy/blob/main/AgentSmith%3A%20A%20Singl
 
 ## 20260806
 * BadAgent: Inserting and Activating Backdoor Attacks in LLM Agents (ACL 2024)
+https://github.com/MartinYeung5/report_eassy/blob/main/BadAgent%3A%20Inserting%20and%20Activating%20Backdoor%20Attacks%20in%20LLM%20Agents.md
+
