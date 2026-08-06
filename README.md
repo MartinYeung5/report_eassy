@@ -179,7 +179,8 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Here%20Comes%20The%20AI%2
 * Prompt Infection: LLM-to-LLM Prompt Injection within Multi-Agent Systems (2024)
 https://github.com/MartinYeung5/report_eassy/blob/main/Prompt%20Infection%3A%20LLM-to-LLM%20Prompt%20Injection%20within%20Multi-Agent%20Systems.md
 
-
+## 20260807
+* JudgeDeceiver: Optimization-Based Prompt Injection Attack to LLM-as-a-Judge (ACM CCS 2024)
 
 
 
