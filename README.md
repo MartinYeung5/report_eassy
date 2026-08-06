@@ -161,3 +161,4 @@ https://github.com/MartinYeung5/report_eassy/blob/main/AgentSmith%3A%20A%20Singl
 * PoisonedRAG: Knowledge Corruption Attacks to Retrieval-Augmented Generation of Large Language Models (USENIX Security 2025)
 
 ## 20260806
+* BadAgent: Inserting and Activating Backdoor Attacks in LLM Agents (ACL 2024)
