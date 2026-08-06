@@ -173,7 +173,7 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Stream3D%3A%20Sequential%
 * Skill-MAS: Evolving Meta-Skill for Automatic Multi-Agent Systems
 https://github.com/MartinYeung5/report_eassy/blob/main/Skill-MAS%3A%20Evolving%20Meta-Skill%20for%20Automatic%20Multi-Agent%20Systems.md
 
-
+* Here Comes The AI Worm: Preventing the Propagation of Adversarial Self-Replicating Prompts (Morris-II) (2024)
 
 
 
