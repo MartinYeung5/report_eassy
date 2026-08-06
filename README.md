@@ -167,3 +167,4 @@ https://github.com/MartinYeung5/report_eassy/blob/main/BadAgent%3A%20Inserting%2
 * Compromising Embodied Agents with Contextual Backdoor Attacks (2024)
 https://github.com/MartinYeung5/report_eassy/blob/main/Compromising%20Embodied%20Agents%20with%20Contextual%20Backdoor%20Attacks.md
 
+* Stream3D: Sequential Multi-View 3D Generation via Evidential Memory
