@@ -165,3 +165,5 @@ https://github.com/MartinYeung5/report_eassy/blob/main/AgentSmith%3A%20A%20Singl
 https://github.com/MartinYeung5/report_eassy/blob/main/BadAgent%3A%20Inserting%20and%20Activating%20Backdoor%20Attacks%20in%20LLM%20Agents.md
 
 * Compromising Embodied Agents with Contextual Backdoor Attacks (2024)
+https://github.com/MartinYeung5/report_eassy/blob/main/Compromising%20Embodied%20Agents%20with%20Contextual%20Backdoor%20Attacks.md
+
