@@ -159,3 +159,5 @@ https://github.com/MartinYeung5/report_eassy/blob/main/AdvWeb%3A%20Controllable%
 https://github.com/MartinYeung5/report_eassy/blob/main/AgentSmith%3A%20A%20Single%20Image%20Can%20Jailbreak%20One%20Million%20Multimodal%20LLM%20Agents%20Exponentially%20Fast.md
 
 * PoisonedRAG: Knowledge Corruption Attacks to Retrieval-Augmented Generation of Large Language Models (USENIX Security 2025)
+
+## 20260806
