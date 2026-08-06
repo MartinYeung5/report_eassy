@@ -175,7 +175,7 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Skill-MAS%3A%20Evolving%2
 
 * Here Comes The AI Worm: Preventing the Propagation of Adversarial Self-Replicating Prompts (Morris-II) (2024)
 
-
+* Prompt Infection: LLM-to-LLM Prompt Injection within Multi-Agent Systems (2024)
 
 
 
