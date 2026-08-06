@@ -158,11 +158,10 @@ https://github.com/MartinYeung5/report_eassy/blob/main/AdvWeb%3A%20Controllable%
 * AgentSmith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast (ICML 2024)
 https://github.com/MartinYeung5/report_eassy/blob/main/AgentSmith%3A%20A%20Single%20Image%20Can%20Jailbreak%20One%20Million%20Multimodal%20LLM%20Agents%20Exponentially%20Fast.md
 
-* Compromising Embodied Agents with Contextual Backdoor Attacks (2024)
-
 * PoisonedRAG: Knowledge Corruption Attacks to Retrieval-Augmented Generation of Large Language Models (USENIX Security 2025)
 
 ## 20260806
 * BadAgent: Inserting and Activating Backdoor Attacks in LLM Agents (ACL 2024)
 https://github.com/MartinYeung5/report_eassy/blob/main/BadAgent%3A%20Inserting%20and%20Activating%20Backdoor%20Attacks%20in%20LLM%20Agents.md
 
+* Compromising Embodied Agents with Contextual Backdoor Attacks (2024)
