@@ -177,6 +177,10 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Skill-MAS%3A%20Evolving%2
 https://github.com/MartinYeung5/report_eassy/blob/main/Here%20Comes%20The%20AI%20Worm%3A%20Preventing%20the%20Propagation%20of%20Adversarial%20Self-Replicating%20Prompts.md
 
 * Prompt Infection: LLM-to-LLM Prompt Injection within Multi-Agent Systems (2024)
+https://github.com/MartinYeung5/report_eassy/blob/main/Prompt%20Infection%3A%20LLM-to-LLM%20Prompt%20Injection%20within%20Multi-Agent%20Systems.md
+
+
+
 
 
 
