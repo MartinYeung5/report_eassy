@@ -174,6 +174,7 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Stream3D%3A%20Sequential%
 https://github.com/MartinYeung5/report_eassy/blob/main/Skill-MAS%3A%20Evolving%20Meta-Skill%20for%20Automatic%20Multi-Agent%20Systems.md
 
 * Here Comes The AI Worm: Preventing the Propagation of Adversarial Self-Replicating Prompts (Morris-II) (2024)
+https://github.com/MartinYeung5/report_eassy/blob/main/Here%20Comes%20The%20AI%20Worm%3A%20Preventing%20the%20Propagation%20of%20Adversarial%20Self-Replicating%20Prompts.md
 
 * Prompt Infection: LLM-to-LLM Prompt Injection within Multi-Agent Systems (2024)
 
