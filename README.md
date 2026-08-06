@@ -170,6 +170,19 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Compromising%20Embodied%2
 * Stream3D: Sequential Multi-View 3D Generation via Evidential Memory
 https://github.com/MartinYeung5/report_eassy/blob/main/Stream3D%3A%20Sequential%20Multi-View%203D%20Generation%20via%20Evidential%20Memory.md
 
+* Skill-MAS: Evolving Meta-Skill for Automatic Multi-Agent Systems
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
