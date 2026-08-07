@@ -192,6 +192,11 @@ https://github.com/MartinYeung5/report_eassy/blob/main/One%20Human%2C%20N%20Agen
 * SKILL-KD: Contrastive Skill Distillation for LLM Agent
 https://github.com/MartinYeung5/report_eassy/blob/main/SKILL-KD%3A%20Contrastive%20Skill%20Distillation%20for%20LLM%20Agent.md
 
+* AI4AI at Scale
+
+
+
+
 
 
 
