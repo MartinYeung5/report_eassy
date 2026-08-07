@@ -202,7 +202,7 @@ https://github.com/MartinYeung5/report_eassy/blob/main/PoisonedRAG%3A%20Knowledg
 https://github.com/MartinYeung5/report_eassy/blob/main/Imprompter%3A%20Tricking%20LLM%20Agents%20into%20Improper%20Tool%20Use.md
 
 * JudgeDeceiver: Optimization-Based Prompt Injection Attack to LLM-as-a-Judge (ACM CCS 2024)
-
+https://github.com/MartinYeung5/report_eassy/blob/main/JudgeDeceiver%3A%20Optimization-Based%20Prompt%20Injection%20Attack%20to%20LLM-as-a-Judge.md
 
 
 
