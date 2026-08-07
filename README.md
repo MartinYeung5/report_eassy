@@ -182,7 +182,7 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Prompt%20Infection%3A%20L
 ## 20260807
 * JudgeDeceiver: Optimization-Based Prompt Injection Attack to LLM-as-a-Judge (ACM CCS 2024)
 
-
+* OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models
 
 
 
