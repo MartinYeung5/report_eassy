@@ -186,7 +186,7 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Prompt%20Infection%3A%20L
 https://github.com/MartinYeung5/report_eassy/blob/main/OSReward%3A%20Instituting%20Standardized%20Evaluation%20for%20Cross-Platform%20Computer-Use%20Reward%20Models.md
 
 * One Human, N Agents: Audit-Budget Allocation for LLM Agent Fleets under Miscalibrated, Correlated Confidence
-
+https://github.com/MartinYeung5/report_eassy/blob/main/One%20Human%2C%20N%20Agents%3A%20Audit-Budget%20Allocation%20for%20LLM%20Agent%20Fleets%20under%20Miscalibrated%2C%20Correlated%20Confidence.md
 
 
 
