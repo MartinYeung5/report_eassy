@@ -195,7 +195,8 @@ https://github.com/MartinYeung5/report_eassy/blob/main/SKILL-KD%3A%20Contrastive
 * AI4AI at Scale
 https://github.com/MartinYeung5/report_eassy/blob/main/AI4AI%20at%20Scale.md
 
-
+* PoisonedRAG: Knowledge Corruption Attacks to Retrieval-Augmented Generation of Large Language Models (USENIX Security 2025)
+* 
 
 
 
