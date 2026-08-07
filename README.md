@@ -204,7 +204,7 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Imprompter%3A%20Tricking%
 * JudgeDeceiver: Optimization-Based Prompt Injection Attack to LLM-as-a-Judge (ACM CCS 2024)
 https://github.com/MartinYeung5/report_eassy/blob/main/JudgeDeceiver%3A%20Optimization-Based%20Prompt%20Injection%20Attack%20to%20LLM-as-a-Judge.md
 
-
+* GuardAgent: Safeguard LLM Agents by a Guard Agent via Knowledge-Enabled Reasoning (ICLR 2025)
 
 
 
