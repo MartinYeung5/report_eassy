@@ -210,6 +210,10 @@ https://github.com/MartinYeung5/report_eassy/blob/main/GuardAgent%3A%20Safeguard
 
 ## 20260809
 * MAGPIE: A Benchmark for Multi-AGent Contextual PrIvacy Evaluation (2025)
+https://github.com/MartinYeung5/report_eassy/blob/main/MAGPIE%3A%20A%20Benchmark%20for%20Multi-AGent%20Contextual%20PrIvacy%20Evaluation.md
+
+
+
 
 
 
