@@ -208,8 +208,8 @@ https://github.com/MartinYeung5/report_eassy/blob/main/JudgeDeceiver%3A%20Optimi
 * GuardAgent: Safeguard LLM Agents by a Guard Agent via Knowledge-Enabled Reasoning (ICLR 2025)
 https://github.com/MartinYeung5/report_eassy/blob/main/GuardAgent%3A%20Safeguard%20LLM%20Agents%20by%20a%20Guard%20Agent%20via%20Knowledge-Enabled%20Reasoning.md
 
-
-
+## 20260809
+* MAGPIE: A Benchmark for Multi-AGent Contextual PrIvacy Evaluation (2025)
 
 
 
