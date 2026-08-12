@@ -223,3 +223,4 @@ https://github.com/MartinYeung5/report_eassy/blob/main/A-MemGuard%3A%20A%20Proac
 https://github.com/MartinYeung5/report_eassy/blob/main/MINJA%3A%20A%20Practical%20Memory%20Injection%20Attack%20against%20LLM%20Agents%20(2025).md
 
 ## 20260813
+* MAFIA: Query-Only Memory Attacks via Probing and Factual Injection against Audited LLM Agents (2026)
