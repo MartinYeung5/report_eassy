@@ -212,7 +212,6 @@ https://github.com/MartinYeung5/report_eassy/blob/main/GuardAgent%3A%20Safeguard
 * MAGPIE: A Benchmark for Multi-AGent Contextual PrIvacy Evaluation (2025)
 https://github.com/MartinYeung5/report_eassy/blob/main/MAGPIE%3A%20A%20Benchmark%20for%20Multi-AGent%20Contextual%20PrIvacy%20Evaluation.md
 
-
 ## 20260810
 Got a Secret? LLM Agents Can't Keep It: Evaluating Privacy in Multi-Agent Systems (ACM CAIS 2026)
 
@@ -222,3 +221,5 @@ https://github.com/MartinYeung5/report_eassy/blob/main/A-MemGuard%3A%20A%20Proac
 ## 20260812
 * MINJA: A Practical Memory Injection Attack against LLM Agents (2025)
 https://github.com/MartinYeung5/report_eassy/blob/main/MINJA%3A%20A%20Practical%20Memory%20Injection%20Attack%20against%20LLM%20Agents%20(2025).md
+
+## 20260813
