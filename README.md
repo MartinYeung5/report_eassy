@@ -213,6 +213,8 @@ https://github.com/MartinYeung5/report_eassy/blob/main/GuardAgent%3A%20Safeguard
 https://github.com/MartinYeung5/report_eassy/blob/main/MAGPIE%3A%20A%20Benchmark%20for%20Multi-AGent%20Contextual%20PrIvacy%20Evaluation.md
 
 
+## 20260810
+Got a Secret? LLM Agents Can't Keep It: Evaluating Privacy in Multi-Agent Systems (ACM CAIS 2026)
 
 
 
