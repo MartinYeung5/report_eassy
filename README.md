@@ -220,5 +220,5 @@ Got a Secret? LLM Agents Can't Keep It: Evaluating Privacy in Multi-Agent System
 https://github.com/MartinYeung5/report_eassy/blob/main/A-MemGuard%3A%20A%20Proactive%20Defense%20Framework%20for%20LLM-Based%20Agent%20Memory.md
 
 ## 20260813
-
+* MINJA: A Practical Memory Injection Attack against LLM Agents (2025)
 
