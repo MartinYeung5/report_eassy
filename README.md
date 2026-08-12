@@ -217,7 +217,7 @@ https://github.com/MartinYeung5/report_eassy/blob/main/MAGPIE%3A%20A%20Benchmark
 Got a Secret? LLM Agents Can't Keep It: Evaluating Privacy in Multi-Agent Systems (ACM CAIS 2026)
 
 * A-MemGuard: A Proactive Defense Framework for LLM-Based Agent Memory (2025)
-
+https://github.com/MartinYeung5/report_eassy/blob/main/A-MemGuard%3A%20A%20Proactive%20Defense%20Framework%20for%20LLM-Based%20Agent%20Memory.md
 
 
 
