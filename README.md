@@ -231,3 +231,5 @@ https://github.com/MartinYeung5/report_eassy/blob/main/MAFIA%3A%20Query-Only%20M
 https://github.com/MartinYeung5/report_eassy/blob/main/MIND%3A%20Lightweight%20and%20Effective%20Memory%20Injection%20Defense%20for%20LLM%20Agents%20via%20Intent-Aware%20Information%20Bottleneck.md
 
 * MemPoison: Uncovering Persistent Memory Threats and Structural Blind Spots in LLM Agents (2026)
+https://github.com/MartinYeung5/report_eassy/blob/main/MemPoison%3A%20Uncovering%20Persistent%20Memory%20Threats%20and%20Structural%20Blind%20Spots%20in%20LLM%20Agents.md
+
