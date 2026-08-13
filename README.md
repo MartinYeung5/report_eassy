@@ -225,3 +225,6 @@ https://github.com/MartinYeung5/report_eassy/blob/main/MINJA%3A%20A%20Practical%
 ## 20260813
 * MAFIA: Query-Only Memory Attacks via Probing and Factual Injection against Audited LLM Agents (2026)
 https://github.com/MartinYeung5/report_eassy/blob/main/MAFIA%3A%20Query-Only%20Memory%20Attacks%20via%20Probing%20and%20Factual%20Injection%20against%20Audited%20LLM%20Agents.md
+
+## 20260814
+* MIND: Lightweight and Effective Memory Injection Defense for LLM Agents via Intent-Aware Information Bottleneck (2026)
