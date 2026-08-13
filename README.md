@@ -234,3 +234,7 @@ https://github.com/MartinYeung5/report_eassy/blob/main/MIND%3A%20Lightweight%20a
 https://github.com/MartinYeung5/report_eassy/blob/main/MemPoison%3A%20Uncovering%20Persistent%20Memory%20Threats%20and%20Structural%20Blind%20Spots%20in%20LLM%20Agents.md
 
 * SMSR: Signed Memory with Smoothed Retrieval — Certified Defence Against Runtime Memory Poisoning (2026)
+https://github.com/MartinYeung5/report_eassy/blob/main/SMSR%3A%20Signed%20Memory%20with%20Smoothed%20Retrieval%20%E2%80%94%20Certified%20Defence%20Against%20Runtime%20Memory%20Poisoning.md
+
+
+
