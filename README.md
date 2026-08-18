@@ -251,4 +251,4 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Context%20Manipulation%20
 * Cellmate: Sandboxing Browser AI Agents (2026)
 https://github.com/MartinYeung5/report_eassy/blob/main/Cellmate%3A%20Sandboxing%20Browser%20AI%20Agents.md
 
-
+* BrowseSafe: Understanding and Preventing Prompt Injection Within AI Browser Agents (2025)
