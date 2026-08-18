@@ -255,3 +255,5 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Cellmate%3A%20Sandboxing%
 https://github.com/MartinYeung5/report_eassy/blob/main/BrowseSafe%3A%20Understanding%20and%20Preventing%20Prompt%20Injection%20Within%20AI%20Browser%20Agents.md
 
 * AdInject: Real-World Black-Box Attacks on Web Agents via Advertising Delivery (2025)
+https://github.com/MartinYeung5/report_eassy/blob/main/AdInject%3A%20Real-World%20Black-Box%20Attacks%20on%20Web%20Agents%20via%20Advertising%20Delivery.md
+
