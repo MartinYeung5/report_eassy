@@ -247,5 +247,6 @@ https://github.com/MartinYeung5/report_eassy/blob/main/SMSR%3A%20Signed%20Memory
 * Context Manipulation Attacks: Web Agents Are Susceptible to Corrupted Memory (ICML 2025)
 https://github.com/MartinYeung5/report_eassy/blob/main/Context%20Manipulation%20Attacks%3A%20Web%20Agents%20Are%20Susceptible%20to%20Corrupted%20Memory.md
 
+## 20260817
 * Cellmate: Sandboxing Browser AI Agents (2026)
 
