@@ -240,4 +240,5 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Indicator%20of%20Benignit
 * SMSR: Signed Memory with Smoothed Retrieval — Certified Defence Against Runtime Memory Poisoning (2026)
 https://github.com/MartinYeung5/report_eassy/blob/main/SMSR%3A%20Signed%20Memory%20with%20Smoothed%20Retrieval%20%E2%80%94%20Certified%20Defence%20Against%20Runtime%20Memory%20Poisoning.md
 
-
+## 20260816
+* 
