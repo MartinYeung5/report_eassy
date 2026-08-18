@@ -249,4 +249,6 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Context%20Manipulation%20
 
 ## 20260817
 * Cellmate: Sandboxing Browser AI Agents (2026)
+https://github.com/MartinYeung5/report_eassy/blob/main/Cellmate%3A%20Sandboxing%20Browser%20AI%20Agents.md
+
 
