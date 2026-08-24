@@ -1,4 +1,5 @@
 **The Real Issue in the Data: McKinsey HR Monitor 2026**
+https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/hr-monitor
 
 McKinsey’s HR Monitor 2026 surveyed approximately 1,300 HR professionals and 5,500 employees across ten countries, with primary focus on Europe and comparative data from the United States and China. The headline tells us HR is at a “turning point.” But the data tells a more uncomfortable story: HR functions are not just underperforming—they are systematically misreading their own reality. Here is what the numbers actually reveal.
 
