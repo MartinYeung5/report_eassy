@@ -278,4 +278,5 @@ https://github.com/MartinYeung5/report_eassy/blob/main/%CE%B4-STEAL%3A%20LLM%20S
 * ChainWatch: A Kill Chain-Aligned Sequential Detection Framework for Multi-Step Attacks in MCP-Based AI Agent Systems (2026)
 https://github.com/MartinYeung5/report_eassy/blob/main/ChainWatch%3A%20A%20Kill%20Chain-Aligned%20Sequential%20Detection%20Framework%20for%20Multi-Step%20Attacks%20in%20MCP-Based%20AI%20Agent%20Systems.md
 
-
+## 20260821
+* Make Agent Defeat Agent: Automatic Detection of Taint-Style Vulnerabilities in LLM-based Agents (AgentFuzz, USENIX Security 2025)
