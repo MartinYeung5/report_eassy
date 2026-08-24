@@ -266,6 +266,7 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Model%20Context%20Protoco
 https://github.com/MartinYeung5/report_eassy/blob/main/Breaking%20the%20Protocol%3A%20Security%20Analysis%20of%20the%20MCP%20Specification%20and%20Prompt%20Injection%20Vulnerabilities%20in%20Tool-Integrated%20LLM%20Agents.md
 
 * From Prompt Injection to Web Exploitation: Revisiting Classic Vulnerabilities in LLM-Integrated Applications (2026)
+https://github.com/MartinYeung5/report_eassy/blob/main/From%20Prompt%20Injection%20to%20Web%20Exploitation%3A%20Revisiting%20Classic%20Vulnerabilities%20in%20LLM-Integrated%20Applications.md
   
 ## 20260820
 * PoisonBench: Assessing Language Model Vulnerability to Poisoned Preference Data (ICML 2025)
