@@ -261,3 +261,4 @@ https://github.com/MartinYeung5/report_eassy/blob/main/AdInject%3A%20Real-World%
 * Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions (2025)
 https://github.com/MartinYeung5/report_eassy/blob/main/Model%20Context%20Protocol%20(MCP)%3A%20Landscape%2C%20Security%20Threats%2C%20and%20Future%20Research%20Directions.md
 
+## 20260819
