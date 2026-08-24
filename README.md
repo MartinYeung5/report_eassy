@@ -283,3 +283,7 @@ https://github.com/MartinYeung5/report_eassy/blob/main/ChainWatch%3A%20A%20Kill%
 https://github.com/MartinYeung5/report_eassy/blob/main/Make%20Agent%20Defeat%20Agent%3A%20Automatic%20Detection%20of%20Taint-Style%20Vulnerabilities%20in%20LLM-based%20Agents.md
 
 * In-Browser LLM-Guided Fuzzing for Real-Time Prompt Injection Testing in Agentic AI Browsers (2025)
+https://github.com/MartinYeung5/report_eassy/blob/main/In-Browser%20LLM-Guided%20Fuzzing%20for%20Real-Time%20Prompt%20Injection%20Testing%20in%20Agentic%20AI%20Browsers.md
+
+
+
