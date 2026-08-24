@@ -280,3 +280,5 @@ https://github.com/MartinYeung5/report_eassy/blob/main/ChainWatch%3A%20A%20Kill%
 
 ## 20260821
 * Make Agent Defeat Agent: Automatic Detection of Taint-Style Vulnerabilities in LLM-based Agents (AgentFuzz, USENIX Security 2025)
+https://github.com/MartinYeung5/report_eassy/blob/main/Make%20Agent%20Defeat%20Agent%3A%20Automatic%20Detection%20of%20Taint-Style%20Vulnerabilities%20in%20LLM-based%20Agents.md
+
