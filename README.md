@@ -275,4 +275,5 @@ https://github.com/MartinYeung5/report_eassy/blob/main/PoisonBench%3A%20Assessin
 * δ-STEAL: LLM Stealing Attack with Local Differential Privacy (ACML 2025)
 https://github.com/MartinYeung5/report_eassy/blob/main/%CE%B4-STEAL%3A%20LLM%20Stealing%20Attack%20with%20Local%20Differential%20Privacy.md
 
-
+* ChainWatch: A Kill Chain-Aligned Sequential Detection Framework for Multi-Step Attacks in MCP-Based AI Agent Systems (2026)
+  
