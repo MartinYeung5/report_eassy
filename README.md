@@ -262,3 +262,4 @@ https://github.com/MartinYeung5/report_eassy/blob/main/AdInject%3A%20Real-World%
 https://github.com/MartinYeung5/report_eassy/blob/main/Model%20Context%20Protocol%20(MCP)%3A%20Landscape%2C%20Security%20Threats%2C%20and%20Future%20Research%20Directions.md
 
 ## 20260819
+Breaking the Protocol: Security Analysis of the MCP Specification and Prompt Injection Vulnerabilities in Tool-Integrated LLM Agents (2026)
