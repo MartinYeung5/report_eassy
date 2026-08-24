@@ -265,3 +265,5 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Model%20Context%20Protoco
 * Breaking the Protocol: Security Analysis of the MCP Specification and Prompt Injection Vulnerabilities in Tool-Integrated LLM Agents (2026)
 https://github.com/MartinYeung5/report_eassy/blob/main/Breaking%20the%20Protocol%3A%20Security%20Analysis%20of%20the%20MCP%20Specification%20and%20Prompt%20Injection%20Vulnerabilities%20in%20Tool-Integrated%20LLM%20Agents.md
 
+* From Prompt Injection to Web Exploitation: Revisiting Classic Vulnerabilities in LLM-Integrated Applications (2026)
+  
