@@ -258,3 +258,4 @@ https://github.com/MartinYeung5/report_eassy/blob/main/BrowseSafe%3A%20Understan
 https://github.com/MartinYeung5/report_eassy/blob/main/AdInject%3A%20Real-World%20Black-Box%20Attacks%20on%20Web%20Agents%20via%20Advertising%20Delivery.md
 
 ## 20260818
+* Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions (2025)
