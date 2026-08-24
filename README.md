@@ -273,4 +273,6 @@ https://github.com/MartinYeung5/report_eassy/blob/main/From%20Prompt%20Injection
 https://github.com/MartinYeung5/report_eassy/blob/main/PoisonBench%3A%20Assessing%20Language%20Model%20Vulnerability%20to%20Poisoned%20Preference%20Data.md
 
 * δ-STEAL: LLM Stealing Attack with Local Differential Privacy (ACML 2025)
-* 
+https://github.com/MartinYeung5/report_eassy/blob/main/%CE%B4-STEAL%3A%20LLM%20Stealing%20Attack%20with%20Local%20Differential%20Privacy.md
+
+
