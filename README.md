@@ -267,3 +267,5 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Breaking%20the%20Protocol
 
 * From Prompt Injection to Web Exploitation: Revisiting Classic Vulnerabilities in LLM-Integrated Applications (2026)
   
+## 20260820
+* PoisonBench: Assessing Language Model Vulnerability to Poisoned Preference Data (ICML 2025)
