@@ -272,3 +272,5 @@ https://github.com/MartinYeung5/report_eassy/blob/main/From%20Prompt%20Injection
 * PoisonBench: Assessing Language Model Vulnerability to Poisoned Preference Data (ICML 2025)
 https://github.com/MartinYeung5/report_eassy/blob/main/PoisonBench%3A%20Assessing%20Language%20Model%20Vulnerability%20to%20Poisoned%20Preference%20Data.md
 
+* δ-STEAL: LLM Stealing Attack with Local Differential Privacy (ACML 2025)
+* 
