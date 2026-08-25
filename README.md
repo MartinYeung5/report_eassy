@@ -300,6 +300,7 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Poser%3A%20Unmasking%20Al
 https://github.com/MartinYeung5/report_eassy/blob/main/Frontier%20Models%20are%20Capable%20of%20In-context%20Scheming.md
 
 * Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training
+https://github.com/MartinYeung5/report_eassy/blob/main/Sleeper%20Agents%3A%20Training%20Deceptive%20LLMs%20that%20Persist%20Through%20Safety%20Training.md
 
 ## 20260824
 * [report] The Real Issue in the Data: McKinsey HR Monitor 2026
