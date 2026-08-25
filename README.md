@@ -299,6 +299,7 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Poser%3A%20Unmasking%20Al
 *  Frontier Models are Capable of In-context Scheming
 https://github.com/MartinYeung5/report_eassy/blob/main/Frontier%20Models%20are%20Capable%20of%20In-context%20Scheming.md
 
+* Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training
 
 ## 20260824
 * [report] The Real Issue in the Data: McKinsey HR Monitor 2026
