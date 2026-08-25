@@ -297,6 +297,8 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Poser%3A%20Unmasking%20Al
 
 ## 20260823
 *  Frontier Models are Capable of In-context Scheming
+https://github.com/MartinYeung5/report_eassy/blob/main/Frontier%20Models%20are%20Capable%20of%20In-context%20Scheming.md
+
 
 ## 20260824
 * [report] The Real Issue in the Data: McKinsey HR Monitor 2026
