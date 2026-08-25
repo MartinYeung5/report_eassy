@@ -318,4 +318,5 @@ https://github.com/MartinYeung5/report_eassy/blob/main/ElasticBack%3A%20Stealthy
 * Sleeper Channels and Provenance Gates: Persistent Prompt Injection in Always-on Autonomous AI Agents
 https://github.com/MartinYeung5/report_eassy/blob/main/Sleeper%20Channels%20and%20Provenance%20Gates%3A%20Persistent%20Prompt%20Injection%20in%20Always-on%20Autonomous%20AI%20Agents.md
 
-
+## 20260825
+* LLM Fingerprinting via Semantically Conditioned Watermarks
