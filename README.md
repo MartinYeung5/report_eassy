@@ -290,7 +290,9 @@ https://github.com/MartinYeung5/report_eassy/blob/main/In-Browser%20LLM-Guided%2
 https://github.com/MartinYeung5/report_eassy/blob/main/BadRobot%3A%20Jailbreaking%20Embodied%20LLM%20Agents%20in%20the%20Physical%20World.md
 
 * Alignment Faking in Large Language Models
-* 
+https://github.com/MartinYeung5/report_eassy/blob/main/Alignment%20Faking%20in%20Large%20Language%20Models.md
+
+
 
 
 ## 20260824
