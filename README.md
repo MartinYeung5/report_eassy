@@ -292,7 +292,7 @@ https://github.com/MartinYeung5/report_eassy/blob/main/BadRobot%3A%20Jailbreakin
 * Alignment Faking in Large Language Models
 https://github.com/MartinYeung5/report_eassy/blob/main/Alignment%20Faking%20in%20Large%20Language%20Models.md
 
-
+* Poser: Unmasking Alignment Faking LLMs by Manipulating Their Internals
 
 
 ## 20260824
