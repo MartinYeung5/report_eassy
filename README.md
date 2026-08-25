@@ -306,4 +306,5 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Sleeper%20Agents%3A%20Tra
 * [report] The Real Issue in the Data: McKinsey HR Monitor 2026
 https://github.com/MartinYeung5/report_eassy/blob/main/The%20Real%20Issue%20in%20the%20Data%3A%20McKinsey%20HR%20Monitor%202026.md
 
-
+* Sycophancy Towards Researchers Drives Performative Misalignment
+* 
