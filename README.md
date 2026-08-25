@@ -320,3 +320,5 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Sleeper%20Channels%20and%
 
 ## 20260825
 * LLM Fingerprinting via Semantically Conditioned Watermarks
+https://github.com/MartinYeung5/report_eassy/blob/main/LLM%20Fingerprinting%20via%20Semantically%20Conditioned%20Watermarks.md
+
