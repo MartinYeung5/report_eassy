@@ -295,7 +295,8 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Alignment%20Faking%20in%2
 * Poser: Unmasking Alignment Faking LLMs by Manipulating Their Internals
 https://github.com/MartinYeung5/report_eassy/blob/main/Poser%3A%20Unmasking%20Alignment%20Faking%20LLMs%20by%20Manipulating%20Their%20Internals.md
 
-
+## 20260823
+*  Frontier Models are Capable of In-context Scheming
 
 ## 20260824
 * [report] The Real Issue in the Data: McKinsey HR Monitor 2026
