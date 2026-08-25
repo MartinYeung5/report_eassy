@@ -313,4 +313,6 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Sycophancy%20Towards%20Re
 https://github.com/MartinYeung5/report_eassy/blob/main/Sleeper%20Agent%20Behavior%20in%20Small%20Code%20Language%20Models.md
 
 * ElasticBack: Stealthy Conditional Backdoor in LLM-Agent Skills via Coupled Trigger–Rule Optimization
+https://github.com/MartinYeung5/report_eassy/blob/main/ElasticBack%3A%20Stealthy%20Conditional%20Backdoor%20in%20LLM-Agent%20Skills%20via%20Coupled%20Trigger%E2%80%93Rule%20Optimization.md
+
 
