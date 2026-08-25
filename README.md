@@ -286,7 +286,7 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Make%20Agent%20Defeat%20A
 https://github.com/MartinYeung5/report_eassy/blob/main/In-Browser%20LLM-Guided%20Fuzzing%20for%20Real-Time%20Prompt%20Injection%20Testing%20in%20Agentic%20AI%20Browsers.md
 
 ## 20260822
-*  BadRobot: Jailbreaking Embodied LLM Agents in the Physical World (ICLR 2025)
+* BadRobot: Jailbreaking Embodied LLM Agents in the Physical World (ICLR 2025)
 https://github.com/MartinYeung5/report_eassy/blob/main/BadRobot%3A%20Jailbreaking%20Embodied%20LLM%20Agents%20in%20the%20Physical%20World.md
 
 
