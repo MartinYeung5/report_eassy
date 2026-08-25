@@ -310,4 +310,7 @@ https://github.com/MartinYeung5/report_eassy/blob/main/The%20Real%20Issue%20in%2
 https://github.com/MartinYeung5/report_eassy/blob/main/Sycophancy%20Towards%20Researchers%20Drives%20Performative%20Misalignment.md
 
 * Sleeper Agent Behavior in Small Code Language Models
+https://github.com/MartinYeung5/report_eassy/blob/main/Sleeper%20Agent%20Behavior%20in%20Small%20Code%20Language%20Models.md
+
+
 
