@@ -287,6 +287,10 @@ https://github.com/MartinYeung5/report_eassy/blob/main/In-Browser%20LLM-Guided%2
 
 ## 20260822
 *  BadRobot: Jailbreaking Embodied LLM Agents in the Physical World (ICLR 2025)
+https://github.com/MartinYeung5/report_eassy/blob/main/BadRobot%3A%20Jailbreaking%20Embodied%20LLM%20Agents%20in%20the%20Physical%20World.md
+
+
+
 
 ## 20260824
 * [report] The Real Issue in the Data: McKinsey HR Monitor 2026
