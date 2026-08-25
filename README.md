@@ -289,7 +289,8 @@ https://github.com/MartinYeung5/report_eassy/blob/main/In-Browser%20LLM-Guided%2
 * BadRobot: Jailbreaking Embodied LLM Agents in the Physical World (ICLR 2025)
 https://github.com/MartinYeung5/report_eassy/blob/main/BadRobot%3A%20Jailbreaking%20Embodied%20LLM%20Agents%20in%20the%20Physical%20World.md
 
-
+* Alignment Faking in Large Language Models
+* 
 
 
 ## 20260824
