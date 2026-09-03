@@ -334,5 +334,7 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Trace%3A%20A%20Two-Channe
 https://github.com/MartinYeung5/report_eassy/blob/main/Adaptively%20Robust%20LLM%20Monitoring%20via%20Activation%20Watermarking.md
 
 * Watermark Stealing in Large Language Models
+https://github.com/MartinYeung5/report_eassy/blob/main/Watermark%20Stealing%20in%20Large%20Language%20Models.md
+
 
 
