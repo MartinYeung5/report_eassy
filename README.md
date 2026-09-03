@@ -324,3 +324,5 @@ https://github.com/MartinYeung5/report_eassy/blob/main/LLM%20Fingerprinting%20vi
 
 ## 20260826
 * Watermarking LLM Agent Trajectories (ActHook)
+https://github.com/MartinYeung5/report_eassy/blob/main/Watermarking%20LLM%20Agent%20Trajectories%20(ActHook).md
+
