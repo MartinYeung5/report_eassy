@@ -339,3 +339,5 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Watermark%20Stealing%20in
 * AI-Trader: Benchmarking Autonomous Agents in Real-Time Financial Markets
 https://github.com/MartinYeung5/report_eassy/blob/main/AI-Trader%3A%20Benchmarking%20Autonomous%20Agents%20in%20Real-Time%20Financial%20Markets.md
 
+## 20260828
+* TrustTrade: Human-Inspired Selective Consensus Reduces Decision Uncertainty in LLM Trading Agents
