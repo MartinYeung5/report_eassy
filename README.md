@@ -326,3 +326,5 @@ https://github.com/MartinYeung5/report_eassy/blob/main/LLM%20Fingerprinting%20vi
 * Watermarking LLM Agent Trajectories (ActHook)
 https://github.com/MartinYeung5/report_eassy/blob/main/Watermarking%20LLM%20Agent%20Trajectories%20(ActHook).md
 
+* Trace: A Two-Channel Robust Attribution Watermark for LLM-Agent Trajectories
+
