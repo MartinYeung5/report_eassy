@@ -341,3 +341,6 @@ https://github.com/MartinYeung5/report_eassy/blob/main/AI-Trader%3A%20Benchmarki
 
 ## 20260828
 * TrustTrade: Human-Inspired Selective Consensus Reduces Decision Uncertainty in LLM Trading Agents
+https://github.com/MartinYeung5/report_eassy/blob/main/TrustTrade%3A%20Human-Inspired%20Selective%20Consensus%20Reduces%20Decision%20Uncertainty%20in%20LLM%20Trading%20Agents.md
+
+
