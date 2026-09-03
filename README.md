@@ -345,3 +345,5 @@ https://github.com/MartinYeung5/report_eassy/blob/main/TrustTrade%3A%20Human-Ins
 
 * Can Blindfolded LLMs Still Trade? An Anonymization-First Framework for Portfolio Optimization
 https://github.com/MartinYeung5/report_eassy/blob/main/Can%20Blindfolded%20LLMs%20Still%20Trade%3F%20An%20Anonymization-First%20Framework%20for%20Portfolio%20Optimization.md
+
+* Toward Expert Investment Teams: A Multi-Agent LLM System with Fine-Grained Trading Tasks
