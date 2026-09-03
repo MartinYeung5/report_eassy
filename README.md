@@ -322,3 +322,5 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Sleeper%20Channels%20and%
 * LLM Fingerprinting via Semantically Conditioned Watermarks
 https://github.com/MartinYeung5/report_eassy/blob/main/LLM%20Fingerprinting%20via%20Semantically%20Conditioned%20Watermarks.md
 
+## 20260826
+* Watermarking LLM Agent Trajectories (ActHook)
