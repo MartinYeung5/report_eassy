@@ -336,5 +336,6 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Adaptively%20Robust%20LLM
 * Watermark Stealing in Large Language Models
 https://github.com/MartinYeung5/report_eassy/blob/main/Watermark%20Stealing%20in%20Large%20Language%20Models.md
 
+* AI-Trader: Benchmarking Autonomous Agents in Real-Time Financial Markets
 
 
