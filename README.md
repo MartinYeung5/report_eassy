@@ -392,3 +392,5 @@ https://github.com/MartinYeung5/report_eassy/blob/main/VideoGen-Agent%3A%20Reinf
 
 ## 20261003
 * One Percent of the Tokens, All of the Strategy: LLM-Assisted Vulnerability Discovery in IoT and Embedded Firmware
+https://github.com/MartinYeung5/report_eassy/blob/main/One%20Percent%20of%20the%20Tokens%2C%20All%20of%20the%20Strategy%3A%20LLM-Assisted%20Vulnerability%20Discovery%20in%20IoT%20and%20Embedded%20Firmware.md
+
