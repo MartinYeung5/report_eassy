@@ -386,4 +386,5 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Forensic%20Stealth%20in%2
 * Watermarks Attack Watermarks: Re-Watermarking as Generic Removal
 https://github.com/MartinYeung5/report_eassy/blob/main/Watermarks%20Attack%20Watermarks%3A%20Re-Watermarking%20as%20Generic%20Removal.md
 
-
+## 20261002
+* VideoGen-Agent: Reinforcing Video Generation Agents
