@@ -388,3 +388,4 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Watermarks%20Attack%20Wat
 
 ## 20261002
 * VideoGen-Agent: Reinforcing Video Generation Agents
+https://github.com/MartinYeung5/report_eassy/blob/main/VideoGen-Agent%3A%20Reinforcing%20Video%20Generation%20Agents.md
