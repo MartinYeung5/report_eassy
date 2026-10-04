@@ -397,3 +397,6 @@ https://github.com/MartinYeung5/report_eassy/blob/main/One%20Percent%20of%20the%
 * Prεεmpt: Sanitizing Sensitive Prompts for LLMs
 https://github.com/MartinYeung5/report_eassy/blob/main/Pr%CE%B5%CE%B5mpt%3A%20Sanitizing%20Sensitive%20Prompts%20for%20LLMs.md
 
+## 20261004
+* SkillOpt: Executive Strategy for Self-Evolving Agent Skills
+
