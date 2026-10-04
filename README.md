@@ -399,4 +399,4 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Pr%CE%B5%CE%B5mpt%3A%20Sa
 
 ## 20261004
 * SkillOpt: Executive Strategy for Self-Evolving Agent Skills
-
+https://github.com/MartinYeung5/report_eassy/blob/main/SkillOpt%3A%20Executive%20Strategy%20for%20Self-Evolving%20Agent%20Skills.md
